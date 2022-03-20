@@ -74,7 +74,7 @@ void solve(){
     string s;
     cin >> n;
     cin >> s;
-    
+
 }
 int main()
 {
